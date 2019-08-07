@@ -1,16 +1,13 @@
-h2.intro {
-  font-family: helvetica;
-}
-
 h1 {
-  text-align: center;
-  text-decoration: underline;
+    text-align: center;
+
+  }
+
+.intro {
+    text-align: left;
+    font-family: helvetica;
 }
 
-p.intro{
-  text-align: center;
-
-}
 
 img.intro {
   border-radius: 8px;
