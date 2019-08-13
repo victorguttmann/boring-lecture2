@@ -17,6 +17,8 @@ img.intro {
   width: 50%;
 }
 
-body {
-  background-color: grey;
+
+.newbackground {
+  background-color: yellow;
+  border: 4px red dashed;
 }
